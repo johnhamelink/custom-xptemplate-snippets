@@ -16,5 +16,6 @@ group :development, :test do
   gem 'fuubar'
   gem 'faker'
   gem 'shoulda-matchers'
+  gem 'database_cleaner'
 end
 `cursor^
